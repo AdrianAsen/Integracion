@@ -19,17 +19,15 @@
   
 ## **Descripción** :page_with_curl:
 
-En este proyecto se llevó a cabo la elaboración de distintos métodos de interpolación y aproximación polinomial utilizando matlab. La interpolación es un método estadístico por el que se utilizan valores conocidos relacionados para estimar un rendimiento potencial de un valor. El concepto de interpolación se utiliza para simplificar funciones complicadas mediante el muestreo de cualquier punto de datos y la interpolación de estos puntos de datos utilizando una función más simple.
+En este proyecto se llevó a cabo la elaboración de distintos métodos de diferenciación numérica e integración utilizando matlab. La diferenciación numérica es una técnica que permite calcular una aproximación a la derivada de una función. Como el concepto original de la derivada de una función, esta aproximación se realiza alrededor de un punto utilizando los valores y propiedades que se conocen del cálculo diferencial de una variable. 
 
-Los métodos de interpolación  que se han realizado en este proyecto han sido los siguientes :
+Los métodos que se han realizado en este proyecto han sido los siguientes :
 
-1. Diferencias divididas de Newton
-2. Diferencias divididas Centrales
-3. Diferencias divididas Progresivas
-4. Diferencias divididas Regresivas
-5. Polinomio de Taylor
-6. Polinomio de Lagrange
-7. Método de Neville
+1. Fórmulas cerradas de Newton-Cotes
+2. Fórmulas abiertas de Newton-Cotes
+3. Fórmula trapezoidal de integración compuesta
+4. Fórmula de simpson para integración compuesta
+5. Integración compuesta de Romberg
 
 
 ## **Visuales e insignias** :tv:
