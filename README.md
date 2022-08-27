@@ -10,7 +10,7 @@
  
 ## **Indice**
   
-  * [Descripción](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Descripci%C3%B3n.md)
+  * [Descripción](https://github.com/AdrianAsen/Integracion/blob/main/DOCS/Descripci%C3%B3n.md)
   * [Visuales](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Visuales.md)
   * [Instalación](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Instalaci%C3%B3n.md)
   * [Uso](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Uso.md)
