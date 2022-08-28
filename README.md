@@ -66,7 +66,7 @@ disp('El procedimiento fue correcto');
 
 ## **Uso**
 
-Para el correcto uso del proyecto se tendrá que descargar todos los archivos de la carpeta [*Interfaz*](https://github.com/AdrianAsen/Interpolacion/tree/main/Interfaz).
+Para el correcto uso del proyecto se tendrá que descargar todos los archivos de la carpeta [*Interfaz*](https://github.com/AdrianAsen/Integracion/tree/main/Interfaz).
 Posteriormente en la command tool debera ingresar el siguiente comando.
 ```matlab
 appdesigner
