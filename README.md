@@ -79,7 +79,9 @@ En la cual se tendrá que dar 'clic' en open, para con esto abrir la [*Interfaz*
   
 [![paso3.jpg](https://i.postimg.cc/q7gWHdRR/paso3.jpg)](https://postimg.cc/jW0Mymy0)
   
-Ya habiendo relizado todos los pasos anteriormente dichos, lo ultimo que se hará es dar 'clic' el botón `Run` o simplemente presionar la tecla `F5` para que ya se pueda usar la interfaz con todos su metodos. Los cuales son:
+Ya habiendo relizado todos los pasos anteriormente dichos, lo ultimo que se hará es dar 'clic' el botón `Run` o simplemente presionar la tecla `F5` para que ya se pueda usar la interfaz con todos su metodos.
+
+Los cuales son:
 
   
 * [Fórmulas cerradas de Newton-Cotes](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/NCcerradas.m)
