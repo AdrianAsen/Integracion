@@ -75,7 +75,7 @@ Una vez ingresada la palabra `appdesigner` en la linea de comandos se abrirá un
 [![paso1.jpg](https://i.postimg.cc/wj8VFYKJ/paso1.jpg)](https://postimg.cc/tYkWCf4C)
 En la cual se tendrá que dar 'clic' en open, para con esto abrir la [*Interfaz*], que ya con anterioridad a sido descargada y así poder hacer uso de los métodos.
 [![paso3.jpg](https://i.postimg.cc/q7gWHdRR/paso3.jpg)](https://postimg.cc/jW0Mymy0)
-Ya habiendo relizado todos los pasos anteriormente dichos, lo ultimo que se hará es dar 'clic' el botón `Run` o simplemente presionar la tecla `F5` para que ya se pueda usar la interfaz con normalidad.
+Ya habiendo relizado todos los pasos anteriormente dichos, lo ultimo que se hará es dar 'clic' el botón `Run` o simplemente presionar la tecla `F5` para que ya se pueda usar la interfaz con todos su metodos. Los cuales son:
 
   
 * [Fórmulas cerradas de Newton-Cotes](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/NCcerradas.m)
