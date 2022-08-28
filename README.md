@@ -74,13 +74,11 @@ appdesigner
   
   
   
-* [Diferencias divididas de Newton](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDnewton.m)
-* [Diferencias divididas Centrales](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDcentrales.m)
-* [Diferencias divididas Progresivas](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDprogresivas.m)
-* [Diferencias divididas Regresivas](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDregresivas.m)
-* [Polinomio de Taylor](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/Ptaylor.m)
-* [Polinomio de Lagrange](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/Plagrange.m)
-* [Método de Neville](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/Mneville.m)
+* [Fórmulas cerradas de Newton-Cotes](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/NCcerradas.m)
+* [Fórmulas abiertas de Newton-Cotes](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/NCabiertas.m)
+* [Fórmula trapezoidal de integración compuesta](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/ReglaCompuestaTrapezoidal.m)
+* [Fórmula de simpson para integración compuesta](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/ReglaCompuestaSimpson.m)
+* [Integración compuesta de Romberg](https://github.com/AdrianAsen/Integracion/blob/main/M%C3%89TODOS/IntegracionRomberg.m)
 
 
 ## **Soporte** :interrobang:
