@@ -35,7 +35,7 @@ Los métodos que se han realizado en este proyecto han sido los siguientes :
   
   
   
-  [![readme.jpg](https://i.postimg.cc/QdJpbBJG/readme.jpg)](https://postimg.cc/w13yxjr0)
+  [![readme.jpg](https://i.postimg.cc/2jMZYdS7/readme.jpg)](https://postimg.cc/kDN4Fb82)
   
   
   
