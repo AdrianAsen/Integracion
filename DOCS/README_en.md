@@ -78,7 +78,7 @@ Which are:
 
 ## **Suport** :interrobang:
 
-For any questions of the program you can contact the followings emails *t1512700921@unitru.edu.pe* or *alem20x@gmail.com*.
+For any questions of the program you can contact the followings emails *t1512700921@unitru.edu.pe* or *t1052701521@unitru.edu.pe*.
 
 
 ## **Authors and Gratefulness** :book:
