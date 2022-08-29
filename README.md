@@ -59,10 +59,7 @@ Y = mod(a,b);
 ```matlab
 syms x;
 ```
-* La función `disp` muestra un texto por la pantalla.
-```matlab
-disp('El procedimiento fue correcto');
-```
+
 
 ## **Uso**
 
