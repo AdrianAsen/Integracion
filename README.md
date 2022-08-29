@@ -100,7 +100,7 @@ Para cualquier consulta con respecto al funcionamiento del programa puede comuni
 |       Alumnos     |   CORREOS   |
 |       ----------    |  ---------| 
 | Asencios Carranza Adrian Fabrizio|t1052700821@unitru.edu.pe|
-| Córdova Saénz Enrique Andre|t1052701521@unitru.edu.pe|
+| Córdova Sáenz Enrique Andre|t1052701521@unitru.edu.pe|
 | Mendez Quiñones Angel Piero|t1512700821@unitru.edu.pe|
 | Mercado Cueva Esteban Manuel|t1052700521@unitru.edu.pe|
 | Sánchez Chunga Alem Sebastian|t1512700921@unitru.edu.pe|
