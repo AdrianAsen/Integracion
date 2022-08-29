@@ -51,13 +51,13 @@ Algunas de las funciones utilizadas en los códigos fueron las siguientes :
 ```matlab
 f = inline(fx);
 ```
-* La función `abs` devuelve el valor absoluto de cada elemento del arreglo *X*.
+* La función `mod` devuelve el resto de dividir a entre b.
 ```matlab
-Y = abs(X);
+Y = mod(a,b);
 ```
-* La función `plot` crea una gráfica de líneas en 2D de los datos en *Y* frente a los valores correspondientes en *X* .
+* La función `syms` permite declarar más de una variable simbólica y no precisa de comillas simples .
 ```matlab
-plot(X,Y);
+syms x;
 ```
 * La función `disp` muestra un texto por la pantalla.
 ```matlab
